@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Definición de Naturaleza",
+        "summary":" Cuando hacemos mención de la naturaleza, nos estamos refiriendo al mundo natural, es decir,al conjunto de los fenómenos físicos del mundo y de los seres vivos. ",
+        "text": " Cuando hacemos mención de la naturaleza, nos estamos refiriendo al mundo natural, es decir, al conjunto de los fenómenos físicos del mundo y de los seres vivos.",
+        "image": "arbol.jpg"
+    },
+    { 
+        "title":"Importancia de la naturaleza",
+        "summary":"La naturaleza es de donde obtenemos los insumos que fundamentan nuestra economía, y también de donde proviene el oxígeno que respiramos.",
+        "text": "La naturaleza es de donde obtenemos los insumos que fundamentan nuestra economía, y también de donde proviene el oxígeno que respiramos, la materia que nos alimenta y las condiciones físicas que sostienen la posibilidad de vida en el planeta.",
+        "image": "natu.jpg"
+    },
+    {
+        "title":"Caracteristicas de la naturaleza",
+        "summary":"La naturaleza es diversa, interdependiente y frágil. Proporciona recursos esenciales y es una fuente inagotable de belleza y inspiración. Su conservación es fundamental.",
+        "text": "La naturaleza es diversa, interdependiente y frágil. Proporciona recursos esenciales y es una fuente inagotable de belleza y inspiración. Su conservación es fundamental.debemos conservarla para las generaciones futuras, ya que la naturaleza proporciona recursos esenciales",
+        "image": "na.jpg"
+    },
+    {
+        "title":"Factores importantes de la naturaleza",
+        "summary":"Los factores importantes de la naturaleza incluyen el clima, la biodiversidad, los recursos naturales, el suelo, el agua, los ciclos biogeoquímicos y los ecosistemas.",
+        "text": "Los factores importantes de la naturaleza incluyen el clima, la biodiversidad, los recursos naturales, el suelo, el agua, los ciclos biogeoquímicos, los ecosistemas y las interacciones bióticas. Estos elementos son esenciales para el funcionamiento de la vida en la Tierra y para la calidad de vida de las personas.",
+        "image": "mon.png"
+    }
+
+]
